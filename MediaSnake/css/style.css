@@ -1,0 +1,9 @@
+.jumbotron{
+    height: 40vh;    
+}
+canvas{
+    border: 1px solid black;
+}
+h2{
+    display: inline-block;
+}
